@@ -5,12 +5,12 @@
 
 We construct a new large-scale challenging dataset ReDWeb-S and it has totally 3179 images with various real-world scenes and high-quality depth maps. We split the dataset into a training set with 2179 RGB-D image pairs and a testing set with the remaining 1000 image pairs.
 
-![avatar](https://github.com/nnizhang/SMAC/tree/main/figures/dataset_examp2.png)
+![avatar](https://github.com/nnizhang/SMAC/blob/main/figures/dataset_examp2.png)
 
 The proposed dataset link can be found here. [[baidu pan](https://pan.baidu.com/s/1sJYWW9DL4YZPGmDWTJz9gg) fetch code: afgi | Google drive]
 
 ### Dataset Statistics and Comparisons
-![avatar](https://github.com/nnizhang/SMAC/tree/main/figures/table.png)
+![avatar](https://github.com/nnizhang/SMAC/blob/main/figures/table.png)
 
 
 ## SOTA Results on our proposed dataset
