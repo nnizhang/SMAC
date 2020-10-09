@@ -11,6 +11,8 @@ The proposed dataset link can be found here. [[baidu pan]() fetch code: afgi | G
 
 ### Dataset Statistics and Comparisons
 ![avatar](https://github.com/nnizhang/SMAC/blob/main/figures/table.png)
+![avatar](https://github.com/nnizhang/SMAC/blob/main/figures/scene_object_stat.pdf)
+Fig.1. Top 60% scene and object category distributions of our proposed ReDWeb-S dataset.
 
 
 ## SOTA Results on our proposed dataset
