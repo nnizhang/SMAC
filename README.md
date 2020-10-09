@@ -30,7 +30,7 @@ Fig.4. Comparsion of the distribution of object size for nine RGB-D SOD benchmar
 
 ## SOTA Results on our proposed dataset
 
-We provide the results of other SOTA RGB-D methods' on our proposed dataset. You can directly download all results [[here](https://pan.baidu.com/s/1yWryLvdDSJsYwG2M0CR6Sg) lfa6].
+We provide other SOTA RGB-D methods' results on our proposed dataset. You can directly download all results [[here](https://pan.baidu.com/s/1yWryLvdDSJsYwG2M0CR6Sg) lfa6].
 **No.** | **Pub.** | **Name** | **Title** | **Download**    
 :-: | :-: | :-: | :- | :-: | 
 01 | **CVPR2020** | **S2MA** | Learning Selective Self-Mutual Attention for RGB-D Saliency Detection | [results](https://pan.baidu.com/s/1uYmvq8iGYOV4moJrCAv16Q), g0pgx
