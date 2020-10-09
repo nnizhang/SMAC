@@ -72,7 +72,7 @@ DCMC | 0.427 | 0.348 | 0.549 | 0.313
 LBE | 0.637 | 0.629 | 0.73 | 0.253
 
 ## Acknowledgement
-We thank all annotators for helping us constructing the proposed dataset. Our proposed dataset is based on the ReDWeb dataset and we thank the authors for providing the ReDWeb dataset.
+We thank all annotators for helping us constructing the proposed dataset. Our proposed dataset is based on the ReDWeb dataset, which is a state-of-the-art dataset proposed for monocular image depth estimation. We also thank the authors for providing the ReDWeb dataset.
 
 ## Contact
 If you have any questions, please feel free to contact me. (nnizhang.1995@gmail.com)
