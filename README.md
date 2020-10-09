@@ -30,7 +30,7 @@ Fig.4. Comparsion of the distribution of object size for nine RGB-D SOD benchmar
 
 ## SOTA Results on our proposed dataset
 
-We provide other SOTA RGB-D methods' results on our proposed dataset. You can directly download all results [[here](https://pan.baidu.com/s/1yWryLvdDSJsYwG2M0CR6Sg) lfa6].
+We provide other SOTA RGB-D methods' results and scores on our proposed dataset. You can directly download all results [[here](https://pan.baidu.com/s/1yWryLvdDSJsYwG2M0CR6Sg) lfa6].
 **No.** | **Pub.** | **Name** | **Title** | **Download**    
 :-: | :-: | :-: | :- | :-: | 
 01 | **CVPR2020** | **S2MA** | Learning Selective Self-Mutual Attention for RGB-D Saliency Detection | [results](https://pan.baidu.com/s/1uYmvq8iGYOV4moJrCAv16Q), g0pgx
@@ -51,6 +51,25 @@ We provide other SOTA RGB-D methods' results on our proposed dataset. You can di
 16 | **SPL2016** | **DCMC** | Saliency detection for stereoscopic images based on depth confidence analysis and multiple cues fusion | [results](https://pan.baidu.com/s/1O8is3axC7Ssr88a8QnxeWQ), 18po
 17 | **CVPR2016** | **LBE** | Local background enclosure for rgb-d salient object detection | [results](https://pan.baidu.com/s/1X30QiJ0mE9diQwhQIqMD2A), iiz5
 
+**Methods** | **S-measure** | **maxF** | **E-measure** | **MAE**     
+:-: | :-: | :-: | :-: | :-: |
+S2MA | 0.711 | 0.696 | 0.781 | 0.139
+JL-DCF | 0.734 | 0.727 | 0.805 | 0.128
+UCNet | 0.713 | 0.71 | 0.794 | 0.13
+A2dele | 0.641 | 0.603 | 0.672 | 0.16
+SSF-RGBD | 0.595 | 0.558 | 0.71 | 0.189
+D3Net | 0.689 | 0.673 | 0.768 | 0.149
+DMRA | 0.592 | 0.579 | 0.721 | 0.188
+CPFP | 0.685 | 0.645 | 0.744 | 0.142
+TANet | 0.656 | 0.623 | 0.741 | 0.165 
+PCF | 0.655 | 0.627 | 0.743 | 0.166 
+MMCI | 0.660 | 0.641 | 0.754 | 0.176 
+CTMF | 0.641 | 0.607 | 0.739 | 0.204 
+AFNet | 0.546 | 0.549 | 0.693 | 0.213
+DF | 0.595 | 0.579 | 0.683 | 0.233
+SE | 0.435 | 0.393 | 0.587 | 0.283
+DCMC | 0.427 | 0.348 | 0.549 | 0.313
+LBE | 0.637 | 0.629 | 0.73 | 0.253
 
 ## Acknowledgement
 We thank all annotators for helping us constructing the proposed dataset.
