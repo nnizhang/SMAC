@@ -10,10 +10,23 @@ We construct a new large-scale challenging dataset ReDWeb-S and it has totally 3
 The proposed dataset link can be found here. [[baidu pan]() fetch code: afgi | Google drive]
 
 ### Dataset Statistics and Comparisons
+
+We analyze the proposed ReDWeb-S datset from several statistical aspects and also conduct a comparison between ReDWeb-S and other existing RGB-D SOD datasets.
+
 ![avatar](https://github.com/nnizhang/SMAC/blob/main/figures/table.png)
-![avatar](https://github.com/nnizhang/SMAC/blob/main/figures/scene_object_stat.pdf)
+
+![avatar](https://github.com/nnizhang/SMAC/blob/main/figures/scene_object_stat.png)
 Fig.1. Top 60% scene and object category distributions of our proposed ReDWeb-S dataset.
 
+![avatar](https://github.com/nnizhang/SMAC/blob/main/figures/GC_IC.png)
+Fig.2. Comparison of nine RGB-D SOD dataset in terms of the distributions of global contrast and interior contrast.
+
+![avatar](https://github.com/nnizhang/SMAC/blob/main/figures/center_bias.png)
+Fig.3. Comparsion of the average annotation maps for nine RGB-D SOD benchmark datasets.
+
+![avatar](https://github.com/nnizhang/SMAC/blob/main/figures/object_size.png)
+
+Fig.4. Comparsion of the distribution of object size for nine RGB-D SOD benchmark datasets.
 
 ## SOTA Results on our proposed dataset
 
@@ -37,3 +50,14 @@ We provide the results of other SOTA RGB-D methods' on our proposed dataset. You
 15 | **ICME2016** | **SE** | Salient object detection for rgb-d image via saliency evolution | [results](https://pan.baidu.com/s/1WWLmuP53yFEHkKDwL2GRzQ), h10s
 16 | **SPL2016** | **DCMC** | Saliency detection for stereoscopic images based on depth confidence analysis and multiple cues fusion | [results](https://pan.baidu.com/s/1O8is3axC7Ssr88a8QnxeWQ), 18po
 17 | **CVPR2016** | **LBE** | Local background enclosure for rgb-d salient object detection | [results](https://pan.baidu.com/s/1X30QiJ0mE9diQwhQIqMD2A), iiz5
+
+
+## Acknowledgement
+We thank all annotators for helping us constructing the proposed dataset.
+
+## Contact
+If you have any questions, please feel free to contact me. (nnizhang.1995@gmail.com)
+
+
+
+
