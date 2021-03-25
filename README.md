@@ -43,7 +43,7 @@ Fig.3. Comparsion of the average annotation maps for nine RGB-D SOD benchmark da
 
 Fig.4. Comparsion of the distribution of object size for nine RGB-D SOD benchmark datasets.
 
-## SOTA Results on our proposed dataset
+## SOTA Results on Our Proposed Dataset
 
 We provide other SOTA RGB-D methods' results and scores on our proposed dataset. You can directly download all results [[here](https://pan.baidu.com/s/1GUyvRjiQpwCGjsDNR2I3YQ) ov08].
 **No.** | **Pub.** | **Name** | **Title** | **Download**    
