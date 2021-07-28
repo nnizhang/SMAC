@@ -3,7 +3,7 @@
 paper link: [https://arxiv.org/abs/2010.05537](https://arxiv.org/abs/2010.05537)
 
 ## Citing our work
-If you think our work is helful, please cite 
+If you think our work is helpful, please cite 
 ```
 @misc{liu2020learning,
       title={Learning Selective Mutual Attention and Contrast for RGB-D Saliency Detection}, 
