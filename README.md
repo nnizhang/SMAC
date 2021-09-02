@@ -46,6 +46,7 @@ Fig.4. Comparsion of the distribution of object size for nine RGB-D SOD benchmar
 ## SOTA Results on Our Proposed Dataset
 
 We provide other SOTA RGB-D methods' results and scores on our proposed dataset. You can directly download all results [[here](https://pan.baidu.com/s/1GUyvRjiQpwCGjsDNR2I3YQ) ov08].
+
 **No.** | **Pub.** | **Name** | **Title** | **Download**    
 :-: | :-: | :-: | :- | :-: | 
 01 | **ECCV2020** | **PGAR** | Progressively Guided Alternate Refinement Network for RGB-D Salient Object Detection | [results](https://pan.baidu.com/s/1R-zqn-aKCITT13jIRqNZ9w), mwtr
