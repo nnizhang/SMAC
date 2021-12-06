@@ -49,6 +49,8 @@ We provide other SOTA RGB-D methods' results and scores on our proposed dataset.
 
 **No.** | **Pub.** | **Name** | **Title** | **Download**    
 :-: | :-: | :-: | :- | :-: | 
+00 | **ICCV2021** | **SPNet** | Specificity-preserving RGB-D Saliency Detection | [results](https://pan.baidu.com/s/1CGYMGkmOPyB3t7MgaGeGoQ), wwup
+00 | **CVPR2021** | **DCF** | Calibrated RGB-D Salient Object Detection | [results](https://pan.baidu.com/s/1KpXnTYbPf1ZVHXatU1D1gg), 3kn9
 01 | **ECCV2020** | **PGAR** | Progressively Guided Alternate Refinement Network for RGB-D Salient Object Detection | [results](https://pan.baidu.com/s/1R-zqn-aKCITT13jIRqNZ9w), mwtr
 02 | **ECCV2020** | **HDFNet** | Hierarchical Dynamic Filtering Network for RGB-D Salient Object Detection | [results](https://pan.baidu.com/s/1UOBIdE8-GkcpIYg-hhQwCg), b98z
 03| **ECCV2020** | **DANet** | A Single Stream Network for Robust and Real-time RGB-D Salient Object Detection | [results](https://pan.baidu.com/s/1DU_0V8xjhcxDs1ekgHtWxg), 1luj
@@ -65,7 +67,7 @@ We provide other SOTA RGB-D methods' results and scores on our proposed dataset.
 14 | **TIP2020** | **DisenFusion** | RGBD Salient Object Detection via Disentangled Cross-Modal Fusion | [results](https://pan.baidu.com/s/1LNabG-hL3uOeXzXuyKX_qQ), h3hc
 15 | **TNNLS2020** | **D3Net** | D3Net:Rethinking RGB-D Salient Object Detection: Models, Datasets, and Large-Scale Benchmarks | [results](https://pan.baidu.com/s/1_mmi1tz2XSs2YtDJegHnvA), tetn
 16 | **ICCV2019** | **DMRA** | Depth-induced multi-scale recurrent attention network for saliency detection | [results](https://pan.baidu.com/s/1UHlRvz-_8poJmeAvD5B7wg), kqq4
-17 | **CVPR2019** | **CPFP** | Depth-induced multi-scale recurrent attention network for saliency detection | [results](https://pan.baidu.com/s/1RZjrImrV8vuXHT6sxZ4Xnw), 0v2c 
+17 | **CVPR2019** | **CPFP** | Contrast Prior and Fluid Pyramid Integration for RGBD Salient Object Detection | [results](https://pan.baidu.com/s/1RZjrImrV8vuXHT6sxZ4Xnw), 0v2c 
 18 | **TIP2019** | **TANet** | Three-stream attention-aware network for RGB-D salient object detection | [results](https://pan.baidu.com/s/1LS5WoS0xGpGLtgG2ajr_jA), hsy9 
 19 | **CVPR2018** | **PCF** | Progressively Complementarity-Aware Fusion Network for RGB-D Salient Object Detection | [results](https://pan.baidu.com/s/1nUo0z4hjSy80FFI97t3INQ), qzhm 
 20 | **PR2019** | **MMCI** | Multi-modal fusion network with multiscale multi-path and cross-modal interactions for RGB-D salient object detection | [results](https://pan.baidu.com/s/1WLhbJVMO_Qu9DpMgkJU6iw), c90m 
