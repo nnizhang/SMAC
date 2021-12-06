@@ -49,6 +49,7 @@ We provide other SOTA RGB-D methods' results and scores on our proposed dataset.
 
 **No.** | **Pub.** | **Name** | **Title** | **Download**    
 :-: | :-: | :-: | :- | :-: | 
+00 | **ICCV2021** | **VST** | Visual Saliency Transformer | [results](https://pan.baidu.com/s/1X2bAISpPSqLUf04tgJwFrA), rkq9
 00 | **ICCV2021** | **SPNet** | Specificity-preserving RGB-D Saliency Detection | [results](https://pan.baidu.com/s/1CGYMGkmOPyB3t7MgaGeGoQ), wwup
 00 | **CVPR2021** | **DCF** | Calibrated RGB-D Salient Object Detection | [results](https://pan.baidu.com/s/1KpXnTYbPf1ZVHXatU1D1gg), 3kn9
 01 | **ECCV2020** | **PGAR** | Progressively Guided Alternate Refinement Network for RGB-D Salient Object Detection | [results](https://pan.baidu.com/s/1R-zqn-aKCITT13jIRqNZ9w), mwtr
