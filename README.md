@@ -1,17 +1,15 @@
 # SMAC: Learning Selective Mutual Attention and Contrast for RGB-D Saliency Detection
 
-paper link: [https://arxiv.org/abs/2010.05537](https://arxiv.org/abs/2010.05537)
+arXiv version: [https://arxiv.org/abs/2010.05537](https://arxiv.org/abs/2010.05537)
 
 ## Citing our work
 If you think our work is helpful, please cite 
 ```
-@misc{liu2020learning,
-      title={Learning Selective Mutual Attention and Contrast for RGB-D Saliency Detection}, 
-      author={Nian Liu and Ni Zhang and Ling Shao and Junwei Han},
-      year={2020},
-      eprint={2010.05537},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{liu2021learning,
+  title={Learning Selective Mutual Attention and Contrast for RGB-D Saliency Detection},
+  author={Liu, Nian and Zhang, Ni and Shao, Ling and Han, Junwei},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2021}
 }
 ```
 
